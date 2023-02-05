@@ -18,9 +18,6 @@ class Solution {
             size++;
         }
         int middle = size/2;
-        // boolean isEven = (size % 2 == 0);
-        // if(isEven)middle++;
-
         for(int i = 0; i<middle; i++){
             head =head.next;
         }
