@@ -19,5 +19,8 @@ class Solution {
 
         if(checkOdd) answer+=1;
         return answer;
-    }
+   }
+    /**
+     * 주말에 다시한번 이해하기위해 공부할 것
+     */
 }

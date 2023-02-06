@@ -1,5 +1,10 @@
+import java.util.Objects;
+
 public class App {
-    public static void main(String[] args) {
-        
+
+    public int longestPalindrome(String s) {
+        char[] toCharArray = s.toCharArray();
+        for(c)
+        return 0;
     }
 }
