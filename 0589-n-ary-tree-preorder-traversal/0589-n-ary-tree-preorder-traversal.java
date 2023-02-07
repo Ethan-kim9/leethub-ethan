@@ -17,6 +17,8 @@ class Node {
 };
 */
 
+//DFS 를 이용해 문제를 풀 수 있다.
+
 class Solution {
     List<Integer> response = new ArrayList<>();
     public List<Integer> preorder(Node root) {
